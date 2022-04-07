@@ -11,9 +11,9 @@ pygmentsUseClasses = true
 paginate = 3
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-MB8KJ1DHDH"
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@KingdomHam"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
